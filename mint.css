@@ -13,7 +13,7 @@ body {
 .page {
 
     min-height: 100vh;
-    background-image: url("bg-dark.svg");
+    background-image: url(bg-dark.svg);
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
